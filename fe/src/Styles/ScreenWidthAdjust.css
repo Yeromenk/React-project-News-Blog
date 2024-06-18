@@ -1,0 +1,9 @@
+.w-adjust {
+    width: 50%;
+}
+
+@media (max-width: 1000px) {
+    .w-adjust {
+        width: 100%;
+    }
+}
